@@ -1,6 +1,6 @@
 ---
 title: Termos de Serviço
-summary: Estes Termos de Serviço são um acordo legal entre os criadores e outros indivíduos do Add-on Referência Certa, e a pessoa ou entidade (“Cliente”, “Você” ou “você”).
+summary: Estes Termos de Serviço são um acordo legal entre os criadores e outros indivíduos do Add-on Referência Certa, e a pessoa ou entidade.
 date: "2018-06-28T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
