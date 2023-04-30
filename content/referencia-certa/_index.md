@@ -19,6 +19,6 @@ Faça seu trabalho acadêmico com as referências corretas sem as complicações
 
 ![Tela de Apresentação do Complemento Referência Certa](assets/media/screenteste.png "Referência Certa adicionado ao documento com barra lateral contendo uma referência inserida.")
 
-![Passo1](assets/media/rc-screen-1.png "::one:: Passo 1: Acesse no menu a opção **Referência Certa** para abrir a barra laterial e gerar suas **referências**.")
-![Passo2](assets/media/rc-screen-2.png "::two:: Passo 2: Insira o **DOI** do artigo e cllique em **Adicionar Fonte de Citação** para obter a **Referência Certa** e no **Padrão**.")
-![Passo3](assets/media/rc-screen-3.png "::three:: Passo 3: Após _adicionar os artigos_ é só clicar em **Inserir Referências** e serão inseridas as **Referências** no **Documento**.")
+![Passo1](assets/media/rc-screen-1.png ":one: Passo 1: Acesse no menu a opção **Referência Certa** para abrir a barra laterial e gerar suas **referências**.")
+![Passo2](assets/media/rc-screen-2.png ":two: Passo 2: Insira o **DOI** do artigo e cllique em **Adicionar Fonte de Citação** para obter a **Referência Certa** e no **Padrão**.")
+![Passo3](assets/media/rc-screen-3.png ":three: Passo 3: Após _adicionar os artigos_ é só clicar em **Inserir Referências** e serão inseridas as **Referências** no **Documento**.")
