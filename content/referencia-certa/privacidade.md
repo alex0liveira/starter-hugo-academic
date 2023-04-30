@@ -1,6 +1,6 @@
 ---
 title: Política de Privacidade
-summary: Here we describe how to add a page to your site.
+summary: A política de privacidade é definida para melhor atender a forma como suas 'Informações de Identificação Pessoal' (PII) estão sendo usadas online.
 date: "2018-06-28T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
