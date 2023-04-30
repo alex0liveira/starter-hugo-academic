@@ -32,7 +32,7 @@ Você pode optar por fazer com que seu computador o avise sempre que um cookie e
 
 Se você desativar os cookies, alguns dos recursos que tornam a experiência do seu site mais eficiente podem não funcionar corretamente.
 
-Fornecedores terceirizados, incluindo o Google, usam cookies para veicular anúncios com base nas visitas anteriores de um usuário a sites. O uso de cookies de publicidade pelo Google permite que ele e seus parceiros veiculem anúncios para você com base em sua visita ao nosso site e/ou outros sites na Internet. Os usuários podem desativar a publicidade personalizada visitando as Configurações de anúncios. O site alicekeeler.com usa o Google Adsense. Quaisquer complementos de NÃO contêm anúncios do Google, que contém anúncios do Google. Referência Certa NÃO rastreia, coleta ou obtém quaisquer dados pertencentes a anúncios veiculados pelo Google Adsense.
+Fornecedores terceirizados, incluindo o Google, usam cookies para veicular anúncios com base nas visitas anteriores de um usuário a sites. O uso de cookies de publicidade pelo Google permite que ele e seus parceiros veiculem anúncios para você com base em sua visita ao nosso site e/ou outros sites na Internet. Os usuários podem desativar a publicidade personalizada visitando as Configurações de anúncios. Quaisquer complementos de NÃO contêm anúncios do Google, que contém anúncios do Google. Referência Certa NÃO rastreia, coleta ou obtém quaisquer dados pertencentes a anúncios veiculados pelo Google Adsense.
 
 Divulgação de terceiros
 Não vendemos, trocamos ou transferimos de outra forma para terceiros suas informações de identificação pessoal.
