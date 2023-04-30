@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 date: 2023-04-30T14:07:34.278Z
-draft: true
+draft: false
 share: false
 commentable: false
 editable: false
