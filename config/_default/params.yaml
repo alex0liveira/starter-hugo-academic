@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: alex_oliveira
+  theme_night: alex_oliveira
   font: minimal
   font_size: m
 
