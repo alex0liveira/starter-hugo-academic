@@ -38,6 +38,8 @@ O Cliente é sempre totalmente responsável por todos os atos e omissões dos Us
 Referência Certa reserva-se o direito de encerrar contas não pagas. Em caso de rescisão, o Cliente será responsável por desinstalar o Serviço para revogar seu acesso e permissões sobre os dados e a conta do Cliente, respectivamente. Referência Certa NÃO fornecerá ao Cliente aviso prévio de tal rescisão por e-mail.
 
 ## Restrições de Uso
+<a name="limited-use"></a>O uso e a transferência de informações recebidas de APIs do Google para qualquer outro aplicativo obedecerão à [Política de Dados do Usuário dos Serviços de API do Google](https://developers.google.com/terms/api-services-user-data-policy), incluindo os requisitos de Uso Limitado. 
+
 Restrições de Uso do Serviço: Além de todos os outros termos e condições aqui contidos, você não deve e não deve permitir que outros:
 
 - copiar, modificar, adaptar, traduzir ou criar trabalhos derivados do Serviço;
