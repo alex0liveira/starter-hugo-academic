@@ -28,6 +28,9 @@ Nós não coletamos ou usamos suas informações.
 Usamos ‘cookies’?
 Não usamos cookies para fins de rastreamento.
 
+Uso Limitado
+O app está em conformidade com a [Política de Dados do Usuário dos Serviços de API do Google](https://developers.google.com/terms/api-services-user-data-policy), incluindo os requisitos de Uso Limitado.
+
 Você pode optar por fazer com que seu computador o avise sempre que um cookie estiver sendo enviado ou pode optar por desativar todos os cookies. Você faz isso através das configurações do seu navegador. Como o navegador é um pouco diferente, consulte o menu de ajuda do seu navegador para aprender a maneira correta de modificar seus cookies.
 
 Se você desativar os cookies, alguns dos recursos que tornam a experiência do seu site mais eficiente podem não funcionar corretamente.
@@ -37,7 +40,7 @@ Fornecedores terceirizados, incluindo o Google, usam cookies para veicular anún
 Divulgação de terceiros
 Não vendemos, trocamos ou transferimos de outra forma para terceiros suas informações de identificação pessoal.
 
-links de terceiros
+Links de terceiros
 Ocasionalmente, a nosso critério, podemos incluir ou oferecer produtos ou serviços de terceiros em nosso site. Esses sites de terceiros têm políticas de privacidade separadas e independentes. Portanto, não temos nenhuma responsabilidade ou responsabilidade pelo conteúdo e atividades desses sites vinculados. No entanto, procuramos proteger a integridade do nosso site e agradecemos qualquer feedback sobre esses sites.
 
 Google
