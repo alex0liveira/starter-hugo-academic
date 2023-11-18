@@ -22,3 +22,4 @@ Faça seu trabalho acadêmico com as referências corretas sem as complicações
 ![Passo1](assets/media/rc-screen-1.png ":one: Passo 1: Acesse no menu a opção **Referência Certa** para abrir a barra laterial e gerar suas **referências**.")
 ![Passo2](assets/media/rc-screen-2.png ":two: Passo 2: Insira o **DOI** do artigo e cllique em **Adicionar Fonte de Citação** para obter a **Referência Certa** e no **Padrão**.")
 ![Passo3](assets/media/rc-screen-3.png ":three: Passo 3: Após _adicionar os artigos_ é só clicar em **Inserir Referências** e serão inseridas as **Referências** no **Documento**.")
+![Passo4](assets/media/rc-screen-4.png "4️⃣: Passo 4: Para Citar os artigos, basta **clicar onde desejar inserir a citação** e depois em **Citar** e será inserida a Citação e indicado **Citado**.")
